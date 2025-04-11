@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Issy 👋🏽
 
-<!--
-**isabellainglis/isabellainglis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer based in London.
 
-Here are some ideas to get you started:
+---
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Passionate about learning and self-improvement - currently learning: Typescript
+- An expert in all things customer success!
+- Reach me here: issy-inglis@hotmail.co.uk or on [LinkedIn](https://www.linkedin.com/in/isabellainglis)
+
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+
+
+
