@@ -1,6 +1,6 @@
 # Hi, I'm Issy 👋🏽
 
-I'm a software engineer based in London.
+## I'm a software engineer based in London.
 
 ---
 ## 🚀 About Me
