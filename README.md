@@ -1,16 +1,14 @@
-# Hi, I'm Issy 👋🏽
+### Hi, I'm Issy!
+A software engineer based in London.
 
-## I'm a software engineer based in London.
+#### 🚀 About Me
 
----
-## 🚀 About Me
-
-- Passionate about learning and self-improvement - currently learning: Typescript
+- Passionate about learning and self-development: currently learning Typescript, German and piano.
 - An expert in all things customer success!
 - Reach me here: issy-inglis@hotmail.co.uk or on [LinkedIn](https://www.linkedin.com/in/isabellainglis)
 
 
-## 🛠️ Technologies & Tools
+#### 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
