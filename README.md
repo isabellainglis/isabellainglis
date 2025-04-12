@@ -3,7 +3,7 @@ A software engineer based in London.
 
 #### 🚀 About Me
 
-- Passionate about learning and self-development: currently learning Typescript, German and piano.
+- Passionate about learning and self-development: currently learning Typescript.
 - An expert in all things customer success!
 - Reach me here: issy-inglis@hotmail.co.uk or on [LinkedIn](https://www.linkedin.com/in/isabellainglis)
 
